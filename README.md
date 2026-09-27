@@ -776,7 +776,7 @@ This project is intended for educational, portfolio, and demonstration purposes.
 
 ## Author
 
-**Yash Khatri**
+**Gaurav Bansod**
 
 Data Engineer | AI & Data Engineering
 
