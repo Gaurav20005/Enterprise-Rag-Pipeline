@@ -1,0 +1,60 @@
+INFORMATION SECURITY POLICY
+
+Document ID: SEC-POL-001
+Department: Information Security
+Version: 4.2
+Effective Date: February 2026
+
+1. PURPOSE
+
+This policy establishes minimum information security requirements for protecting company systems, applications, devices, and information.
+
+2. PASSWORDS
+
+Employees must use strong passwords and must not share passwords with other individuals.
+
+Passwords must not be stored in unapproved documents or communication channels.
+
+3. MULTI-FACTOR AUTHENTICATION
+
+Multi-factor authentication must be enabled for systems that require it.
+
+Employees must never approve authentication requests that they did not initiate.
+
+4. COMPANY DEVICES
+
+Company devices must use approved security controls and operating system updates.
+
+Employees must report lost or stolen company devices immediately to the IT service desk.
+
+5. DATA CLASSIFICATION
+
+Company information should be handled according to its classification.
+
+Confidential and restricted information must only be shared with authorised individuals.
+
+6. EMAIL SECURITY
+
+Employees must be cautious when opening attachments or clicking links received through email.
+
+Suspicious emails should be reported to the Information Security team.
+
+7. CLOUD STORAGE
+
+Company information may only be stored using approved cloud storage platforms.
+
+Personal cloud storage services must not be used for confidential company information.
+
+8. INCIDENT REPORTING
+
+Security incidents, suspected data breaches, lost devices, and suspicious activity must be reported immediately.
+
+9. ACCESS CONTROL
+
+Employees must only access systems and information required for their job responsibilities.
+
+Access rights are reviewed periodically.
+
+10. POLICY REVIEW
+
+The Information Security department reviews this policy annually.

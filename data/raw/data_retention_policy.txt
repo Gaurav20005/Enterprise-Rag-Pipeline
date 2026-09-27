@@ -1,0 +1,48 @@
+DATA RETENTION POLICY
+
+Document ID: DATA-POL-001
+Department: Data Governance
+Version: 1.8
+Effective Date: March 2026
+
+1. PURPOSE
+
+This policy defines requirements for retaining, reviewing, archiving, and deleting company information.
+
+2. DATA RETENTION PRINCIPLE
+
+Information should only be retained for as long as necessary for legitimate business, legal, regulatory, or contractual purposes.
+
+3. CUSTOMER DATA
+
+Customer information must be retained according to applicable legal and contractual requirements.
+
+Teams must not retain customer information indefinitely without a documented business or legal requirement.
+
+4. EMPLOYEE DATA
+
+Employee records should be retained according to Human Resources retention schedules and applicable employment requirements.
+
+5. DOCUMENT REVIEW
+
+Business owners should periodically review stored information to determine whether it remains necessary.
+
+6. DATA DELETION
+
+Information that is no longer required should be securely deleted or anonymised where appropriate.
+
+7. BACKUPS
+
+Backup systems may retain information for a defined period based on the company's backup and disaster recovery procedures.
+
+8. ACCESS
+
+Access to retained information must follow the principle of least privilege.
+
+9. DATA BREACHES
+
+Suspected unauthorised access, disclosure, alteration, or destruction of retained information must be reported through the security incident process.
+
+10. POLICY REVIEW
+
+The Data Governance department reviews this policy annually.

@@ -1,0 +1,47 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated Spark output
+spark_chunk_statistics.json
+# Generated processed data
+data/processed/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Docker
+*.pid
+
+# Model/cache files
+.cache/
+models/
